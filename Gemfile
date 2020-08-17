@@ -17,7 +17,7 @@ end
 
 gemspec
 
-gem 'rake'
+gem 'rake', '< 11.0'
 
 # docs
 gem 'yard'
